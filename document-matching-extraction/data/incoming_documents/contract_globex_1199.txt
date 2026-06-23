@@ -1,0 +1,9 @@
+CONTRACT — Service Agreement
+Vendor: Globex Consulting Inc
+Contract ID: CTR-2025-1199
+Effective Date: 2025-01-01
+Expiry Date: 2026-12-31
+Annual Value: USD 96,000.00
+Cost Center: CC-IT-004
+
+Scope: Enterprise data platform support and SLA-based maintenance.

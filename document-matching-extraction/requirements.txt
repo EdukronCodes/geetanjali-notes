@@ -1,0 +1,14 @@
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+langchain-openai>=0.0.5
+faiss-cpu>=1.7.4
+numpy>=1.26.0
+pandas>=2.1.0
+sqlalchemy>=2.0.25
+pyodbc>=5.0.1
+boto3>=1.34.0
+pypdf>=4.0.0
+python-docx>=1.1.0
+openai>=1.10.0
+pytest>=7.4.0

@@ -1,0 +1,5 @@
+vendor_name,reference_id,document_type,amount,cost_center,due_date
+Acme Supplies Ltd,PO-77821,PO,12500.00,CC-FIN-001,2025-12-10
+Globex Consulting Inc,CTR-2025-1199,CONTRACT,96000.00,CC-IT-004,2026-12-31
+Beta Logistics,PO-88102,PO,3200.50,CC-OPS-002,2025-10-15
+Zenith Software,PO-99221,PO,12500.00,CC-FIN-001,2025-12-10
